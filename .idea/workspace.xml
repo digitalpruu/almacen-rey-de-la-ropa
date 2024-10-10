@@ -46,7 +46,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/kevinpicon/Documents/Proyecto/almacen-rey-de-la-ropa/public/assets",
+    "last_opened_file_path": "/Users/kevinpicon/Documents/Proyecto/almacen-rey-de-la-ropa",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -98,6 +98,7 @@
       <workItem from="1726542469486" duration="1093000" />
       <workItem from="1726550992946" duration="3000" />
       <workItem from="1727419990912" duration="228000" />
+      <workItem from="1727924013599" duration="45000" />
     </task>
     <task id="LOCAL-00001" summary="Funcional pero sin adjuntar archivos">
       <option name="closed" value="true" />
